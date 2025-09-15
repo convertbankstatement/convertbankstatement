@@ -8,6 +8,8 @@
 <p align="left"> <a href="https://twitter.com/stmt2csv" target="blank"><img src="https://img.shields.io/twitter/follow/stmt2csv?logo=twitter&style=for-the-badge" alt="stmt2csv" /></a> </p>
 
 - 🔭 I’m currently working on [Bank Statement Converter](https://convertebankstatement.com/)
+- I’m currently working on [Face Shape Detector AI-Powered](https://whatismyfaceshape.net/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
